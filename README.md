@@ -1,13 +1,20 @@
 # Clustering & Hyperparameter Tuning/Searching
 
-## Goal
-A bank wants to launch a new marketing campaign, but needs to find their target audiences, that's where you come in! Find and compare different customer segments and propose how to approach them via marketing.
+This repository showcases different clustering techniques, including K-means, Hierarchical, Mean Shift, and DBSCAN, to perform customer segmentation for a bank's marketing strategy. The dataset used in this project contains 18 behavioral variables of approximately 9,000 active credit card holders over the last 6 months.
 
-## Description
-This case requires developing customer segmentation to define marketing strategy. The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+The goal of this project is to identify and compare different customer segments and propose approaches for targeting them through marketing.
 
-## Technologies
-K-means, Hierarchical, Mean Shift, DBSCAN
+Technologies used include Python, Pandas, Scikit-Learn, and Matplotlib.
 
-## Download
-The dataset can be downloaded from [Kaggle](https://www.kaggle.com/arjunbhasin2013/ccdata).
+## Contents
+
+- Data Exploration and Preprocessing
+- Clustering Models
+  - K-means
+  - Hierarchical
+  - Mean Shift
+  - DBSCAN
+- Hyperparameter Tuning/Searching
+- Conclusion
+
+This project is suitable for anyone interested in learning about clustering techniques and hyperparameter tuning/searching.
